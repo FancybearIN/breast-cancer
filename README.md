@@ -4,7 +4,7 @@
 
 This project uses a Convolutional Neural Network (CNN) implemented with Keras and TensorFlow to detect breast cancer. The implementation is based on the paper "Cancer diagnosis in histopathological image: CNN based approach" published in Informatics in Medicine Unlocked Volume 16, 2019, 100231. [Read the paper](https://www.sciencedirect.com/science/article/pii/S2352914819301133)
 
-## Requirements
+## Requirementss sf
 
 To install the required packages, run:
 ```sh
